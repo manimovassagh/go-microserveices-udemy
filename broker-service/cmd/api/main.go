@@ -1,10 +1,7 @@
 package main
 
-import (
-	"log"
-)
+import "log"
 
 func main() {
-	log.Println("Start Broker service")
-
+	log.Println("Start")
 }
